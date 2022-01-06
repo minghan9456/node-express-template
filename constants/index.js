@@ -1,0 +1,1 @@
+exports.BATCH_GET_LIMIT = 100;
